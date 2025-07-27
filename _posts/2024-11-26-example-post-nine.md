@@ -9,7 +9,7 @@ categories:
 - Credit Risk Assessment
 - Sentiment Analysis
 - LSTM
-- Convolutional Neural Networks
+- CNN
 - Transformers
 feature_image: "https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00521-024-10547-x/MediaObjects/521_2024_10547_Fig1_HTML.png?as=webp"
 ---
