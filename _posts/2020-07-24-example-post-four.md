@@ -1,5 +1,5 @@
 ---
-title: Word sense disambiguation: an evaluation study of semi-supervised approaches with word embeddings
+title: Word sense disambiguation - an evaluation study of semi-supervised approaches with word embeddings
 categories:
 - Random
 feature_image: " "
