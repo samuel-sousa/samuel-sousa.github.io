@@ -3,7 +3,7 @@ title: Large Language Models for Electronic Health Record De-Identification in E
 categories:
 - LLMs
 - GenAI
-- Health research
+- Health Research
 - Privacy
 feature_image: "https://pub.mdpi-res.com/img/journals/information-logo.png?8600e93ff98dbf14"
 ---
