@@ -18,4 +18,4 @@ Our results indicate that homicide rates are more recurrent in large urban cente
 Population and the educational level of the adult population were the variables which most influenced the results. 
 K-means clustering brought the optimum outcomes, and Univariate Selection better selected attributes of the database.
 
-_Available at [CLEI](https://clei.org/cleiej/index.php/cleiej/article/view/446)_
+_Available at [CLEI](https://clei.org/cleiej/index.php/cleiej/article/view/446)._
