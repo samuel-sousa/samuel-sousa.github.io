@@ -1,5 +1,5 @@
 ---
-title: CryptoTL: Private, Efficient and Secure Transfer Learning
+title: CryptoTL - Private, Efficient and Secure Transfer Learning
 categories:
 - Machine Learning
 - Sentiment Analysis
