@@ -1,7 +1,12 @@
 ---
 title: Word sense disambiguation - an evaluation study of semi-supervised approaches with word embeddings
 categories:
-- Random
+- Word Sense Disambiguation
+- Semi-Supervised Learning
+- Word Embeddings
+- Machine Learning
+- Natural Language Processing
+- Text Mining
 feature_image: " "
 ---
 
