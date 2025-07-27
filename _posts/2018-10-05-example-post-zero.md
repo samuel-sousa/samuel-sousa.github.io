@@ -2,7 +2,6 @@
 title: Cluster Analysis of Homicide Rates in the Brazilian State of Goiás from 2002 to 2014
 categories:
 - Clustering
-- K-Means
 - Geospatial Data Analysis
 feature_image: "https://clei.org/clei2018/img/clei-laclo-2018-logo.png"
 ---
