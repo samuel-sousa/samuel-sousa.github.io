@@ -15,4 +15,4 @@ In this paper, we analyze the spatial distribution of homicide mortality in the 
 Moreover, this state had the fifth position of homicides in Brazil in 2014. We considered socio-demographic variables for the state, performed analysis about correlation and employed three clustering algorithms: K-means, Density-based and Hierarchical. 
 The results indicate the homicide rates are higher in cities neighbors of large urban centers, although these cities have the best socioeconomic indicators.
 
-_Available at [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8786344)_
+_Available at [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8786344)._
