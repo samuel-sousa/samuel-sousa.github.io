@@ -10,7 +10,7 @@ Welcome to my website! I'm Samuel Sousa...
 
 {% include button.html text="Check my GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="Connect 🚀" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="Interesting reads ⚗️" link="https://www.researchgate.net/profile/Samuel-Sousa-8" %}
 
-## About me
+## About
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
