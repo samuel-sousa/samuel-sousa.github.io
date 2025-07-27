@@ -3,7 +3,6 @@ title: Word sense disambiguation: an evaluation study of semi-supervised approac
 categories:
 - Natural Language Processing
 - Machine Learning
-- Word Embeddings
 feature_image: "https://github.com/samuel-sousa/random-images/blob/main/WCCI2020.jpg"
 ---
 
