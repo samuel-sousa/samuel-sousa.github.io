@@ -8,7 +8,7 @@ excerpt: "I'm Samuel Sousa, a Data Scientist..."
 
 Welcome to my website! I'm Samuel Sousa...
 
-{% include button.html text="GitHub 🧰" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="Connect 🚀" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="Impact 🔎" icon="scholar" link="https://scholar.google.com/citations?user=DRik_qYAAAAJ&hl=en&oi=sra" color="#0366d6" %} {% include button.html text="Interesting reads ⚗️" link="https://www.researchgate.net/profile/Samuel-Sousa-8" %} 
+{% include button.html text="🧰 GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="🚀 Connect" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="🔎 Impact" icon="scholar" link="https://scholar.google.com/citations?user=DRik_qYAAAAJ&hl=en&oi=sra" color="#0366d6" %} {% include button.html text="⚗️ Interesting reads" icon="link" link="https://www.researchgate.net/profile/Samuel-Sousa-8" %} 
 
 ## About
 
