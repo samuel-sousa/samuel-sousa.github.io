@@ -1,12 +1,12 @@
 ---
 title: Word sense disambiguation: an evaluation study of semi-supervised approaches with word embeddings
 categories:
-- Word sense disambiguation
-- Semi-supervised learning
-- Word embeddings
-- Machine learning
-- Natural language processing
-- Text mining
+- Word Sense Disambiguation
+- Semi-Supervised Learning
+- Word Embeddings
+- Machine Learning
+- Natural Language Processing
+- Text Mining
 feature_image: "https://ecmlpkdd2019.org/img/breit_datum.png"
 ---
 
