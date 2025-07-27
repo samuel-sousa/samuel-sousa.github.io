@@ -1,12 +1,9 @@
 ---
-title: Word sense disambiguation: an evaluation study of semi-supervised approaches with word embeddings
+title: Categorizing Online Harassment on Twitter
 categories:
-- Word Sense Disambiguation
-- Semi-Supervised Learning
-- Word Embeddings
-- Machine Learning
 - Natural Language Processing
-- Text Mining
+- Text classification
+- Twitter
 feature_image: "https://ecmlpkdd2019.org/img/breit_datum.png"
 ---
 
