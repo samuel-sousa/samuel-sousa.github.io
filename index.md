@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=992"
 excerpt: "I'm Samuel Sousa, a Data Scientist..."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Welcome to my website! I'm Samuel Sousa...
 
 {% include button.html text="Check my GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="Connect 🚀" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="Interesting reads ⚗️" link="https://www.researchgate.net/profile/Samuel-Sousa-8" %}
 
