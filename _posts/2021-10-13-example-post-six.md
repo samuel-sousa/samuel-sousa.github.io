@@ -14,4 +14,4 @@ Information retrieval (IR) is likewise prone to privacy threats, such as attacks
 This work aims at highlighting and discussing open challenges for privacy in the recent literature of IR, focusing on tasks featuring user-generated text data. 
 Our contribution is threefold: firstly, we present an overview of privacy threats to IR tasks; secondly, we discuss applicable privacy-preserving mechanisms which may be employed in solutions to restrain privacy hazards; finally, we bring insights on the tradeoffs between privacy preservation and utility performance for IR tasks.
 
-_Available at [Zenodo](https://zenodo.org/records/5887680)_
+_Available at [Zenodo](https://zenodo.org/records/5887680)._
