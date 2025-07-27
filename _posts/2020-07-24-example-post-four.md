@@ -1,8 +1,7 @@
 ---
 title: Word sense disambiguation: an evaluation study of semi-supervised approaches with word embeddings
 categories:
-- Natural Language Processing
-- Machine Learning
+- Random
 feature_image: "https://github.com/samuel-sousa/random-images/blob/main/WCCI2020.jpg"
 ---
 
