@@ -2,6 +2,7 @@
 title: Assessing the impact of differential privacy in transfer learning with deep neural networks and transformer language models
 categories:
 - Transfer Learning
+- Deep Learning
 - Fairness
 - GPT
 - Trustworthy AI
