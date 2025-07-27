@@ -11,7 +11,7 @@ categories:
 - LSTM
 - Convolutional Neural Networks
 - Transformers
-feature_image: "https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-3149409f62.svg"
+feature_image: "https://link.springer.com/article/10.1007/s00521-024-10547-x/figures/1"
 ---
 
 **Abstract**: The realization of trustworthy artificial intelligence strongly relies on privacy, fairness, and accountability requirements. 
