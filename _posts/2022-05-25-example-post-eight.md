@@ -5,7 +5,7 @@ categories:
 - Privacy
 - Natural Language Processing
 - Differential Privacy
-- Federated learning
+- Federated Learning
 feature_image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10462-022-10204-6/MediaObjects/10462_2022_10204_Fig5_HTML.png?"
 ---
 
