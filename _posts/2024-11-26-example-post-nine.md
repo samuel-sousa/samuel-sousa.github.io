@@ -6,6 +6,10 @@ categories:
 - GPT
 - Trustworthy AI
 - Credit Risk Assessment
+- Sentiment Analysis
+- LSTM
+- Convolutional Neural Networks
+- Transformers
 feature_image: "https://media.springernature.com/w316/springer-static/cover-hires/journal/521?as=webp"
 ---
 
