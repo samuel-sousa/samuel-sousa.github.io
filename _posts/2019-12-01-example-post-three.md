@@ -1,7 +1,6 @@
 ---
 title: Feature Selection for Clustering of Homicide Rates in the Brazilian State of Goias
 categories:
-- Clustering
 - Machine Learning
 - Feature Selection
 feature_image: "https://clei.org/cleiej/public/journals/1/pageHeaderLogoImage_en_US.png"
