@@ -1,7 +1,7 @@
 ---
 title: Housing Prices Prediction with a Deep Learning and Random Forest Ensemble
 categories:
-- Housing prices prediction
+- Housing Prices Prediction
 - Machine Learning
 - Ensembles
 - Random Forests
