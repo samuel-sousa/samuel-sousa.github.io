@@ -8,7 +8,7 @@ excerpt: "I'm Samuel Sousa, a Data Scientist..."
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
-{% include button.html text="Check my GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="Connect" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Check my GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="Connect 🚀" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
