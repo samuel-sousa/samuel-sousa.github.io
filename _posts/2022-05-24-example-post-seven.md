@@ -5,7 +5,7 @@ categories:
 - Sentiment Analysis
 - CNN
 - Privacy
-feature_image: "https://en.wikipedia.org/wiki/ArXiv#/media/File:ArXiv_logo_2022.svg"
+feature_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ArXiv_logo_2022.svg/1920px-ArXiv_logo_2022.svg.png"
 ---
 
 **Abstract**: Big data has been a pervasive catchphrase in recent years, but dealing with data scarcity has become a crucial question for many real-world deep learning (DL) applications. 
