@@ -2,8 +2,8 @@
 title: Categorizing Online Harassment on Twitter
 categories:
 - Natural Language Processing
-- Text classification
-- Twitter
+- Text Classification
+- Social Media Analysis
 feature_image: "https://ecmlpkdd2019.org/img/breit_datum.png"
 ---
 
