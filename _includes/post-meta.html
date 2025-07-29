@@ -1,6 +1,6 @@
 {% if page.skills %}
   {% capture skills %}
-    {% for skil in page.skills %}
+    {% for skill in page.skills %}
       <span class="label  label--skill"><a href="{{ site.baseurl }}/skills/#{{ skill | downcase | slugify }}">{{ skill }}</a></span>{% if forloop.last == false %},{% endif %}
     {% endfor %}
   {% endcapture %}
