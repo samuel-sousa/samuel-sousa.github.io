@@ -1,8 +1,6 @@
 ---
-feature_text: |
-  
+title: Home
 feature_image: "https://picsum.photos/1300/400?image=992"
-excerpt: "I'm Samuel Sousa, a Data Scientist..."
 ---
 # Hello! Bonjour ! Hallo! Olá!
 
