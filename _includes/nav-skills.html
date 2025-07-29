@@ -1,9 +1,0 @@
-<nav class="nav  nav--skills">
-  <ul class="list  list--skills">
-    {% for item in site.skills %}
-      <li class="item  item--skill">
-        <a href="#{{ item | first | slugify }}">{{ item | first }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</nav>
