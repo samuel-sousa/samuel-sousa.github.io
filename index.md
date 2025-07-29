@@ -1,10 +1,10 @@
 ---
-title: Hello! Bonjour ! Hallo! Olá!
 feature_text: |
   
 feature_image: "https://picsum.photos/1300/400?image=992"
 excerpt: "I'm Samuel Sousa, a Data Scientist..."
 ---
+# Hello! Bonjour ! Hallo! Olá!
 
 Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researcher, Data Scientist, and Machine Learning Engineer.
 
