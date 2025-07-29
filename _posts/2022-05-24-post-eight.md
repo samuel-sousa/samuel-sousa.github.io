@@ -1,6 +1,6 @@
 ---
 title: CryptoTL - Private, Efficient and Secure Transfer Learning
-categories:
+skills:
 - Machine Learning
 - Sentiment Analysis
 - CNN
