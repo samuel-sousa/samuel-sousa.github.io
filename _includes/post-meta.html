@@ -1,12 +1,12 @@
-{% if page.categories %}
-  {% capture categories %}
-    {% for category in page.categories %}
-      <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a></span>{% if forloop.last == false %},{% endif %}
+{% if page.skills %}
+  {% capture skills %}
+    {% for skil in page.skills %}
+      <span class="label  label--skill"><a href="{{ site.baseurl }}/skills/#{{ skill | downcase | slugify }}">{{ skill }}</a></span>{% if forloop.last == false %},{% endif %}
     {% endfor %}
   {% endcapture %}
-{% elsif page.category %}
-  {% capture categories %}
-    <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ page.category | downcase | slugify }}">{{ page.category }}</a></span>
+{% elsif page.skill %}
+  {% capture skills %}
+    <span class="label  label--skill"><a href="{{ site.baseurl }}/skills/#{{ page.skill | downcase | slugify }}">{{ page.skill }}</a></span>
   {% endcapture %}
 {% endif %}
 
