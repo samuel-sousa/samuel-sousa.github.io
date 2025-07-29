@@ -4,9 +4,9 @@
       <span class="label  label--skill"><a href="{{ site.baseurl }}/skills/#{{ skill | downcase | slugify }}">{{ skill }}</a></span>{% if forloop.last == false %},{% endif %}
     {% endfor %}
   {% endcapture %}
-{% elsif page.skill %}
+{% elsif page.skills %}
   {% capture skills %}
-    <span class="label  label--skill"><a href="{{ site.baseurl }}/skills/#{{ page.skill | downcase | slugify }}">{{ page.skill }}</a></span>
+    <span class="label  label--skill"><a href="{{ site.baseurl }}/skills/#{{ page.skills | downcase | slugify }}">{{ page.skills }}</a></span>
   {% endcapture %}
 {% endif %}
 
