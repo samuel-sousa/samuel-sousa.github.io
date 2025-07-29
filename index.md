@@ -6,11 +6,11 @@ feature_image: "https://picsum.photos/1300/400?image=992"
 excerpt: "I'm Samuel Sousa, a Data Scientist..."
 ---
 
-Welcome to my website! I'm Samuel Sousa...
+Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researcher, Data Scientist, and Machine Learning Engineer!
 
 {% include button.html text="🧰 GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="🚀 Connect" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="🔎 Impact" icon="scholar" link="https://scholar.google.com/citations?user=DRik_qYAAAAJ&hl=en&oi=sra" color="#0366d6" %} {% include button.html text="⚗️ Interesting reads" icon="link" link="https://www.researchgate.net/profile/Samuel-Sousa-8" %} 
 
-## About
+## About me
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
