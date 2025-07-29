@@ -1,6 +1,6 @@
 ---
 title: Skills
-layout: categories
-excerpt: "Category index"
+layout: skills
+excerpt: "Skill index"
 aside: true
 ---
