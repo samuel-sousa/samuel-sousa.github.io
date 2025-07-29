@@ -12,19 +12,6 @@ Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researc
 
 ## About me
 
-- I bring over 5 years of experience developing cutting-edge solutions in Generative AI (GenAI), LLMs, machine/deep learning, and NLP.
-- My passion for technology drives me to create impactful AI models while staying up-to-date with the latest trends in machine learning and data science.
-- I obtained a PhD in Computer Science at Graz University of Technology in Austria :flag_austria:.
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- I bring over 5 years of experience developing cutting-edge solutions in **Generative AI (GenAI)**, **LLMs**, **machine/deep learning**, and **NLP**.
+- My passion for technology drives me to create impactful **AI models** while staying up-to-date with the latest **trends** in **AI**, **machine learning**, and **data science**.
+- I obtained a **PhD in Computer Science** at Graz University of Technology in Austria :flag_austria: with a dissertation forcusing o deep learning methods for privacy-preserving NLP.
