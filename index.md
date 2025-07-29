@@ -1,8 +1,7 @@
 ---
-title: Home
+title: Hello!
 feature_image: "https://picsum.photos/1300/400?image=992"
 ---
-# Hello! Bonjour ! Hallo! Olá!
 
 Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researcher, Data Scientist, and Machine Learning Engineer.
 
