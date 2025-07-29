@@ -14,4 +14,4 @@ Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researc
 
 - I bring over 5 years of experience developing cutting-edge solutions in **Generative AI (GenAI)**, **LLMs**, **machine/deep learning**, and **NLP**.
 - My passion for technology drives me to create impactful **AI models** while staying up-to-date with the latest **trends** in **AI**, **machine learning**, and **data science**.
-- I obtained a **PhD in Computer Science** at Graz University of Technology in Austria :flag_austria: with a dissertation forcusing o deep learning methods for privacy-preserving NLP.
+- I obtained a **PhD in Computer Science** at Graz University of Technology in Austria 🇦🇹, with a dissertation focusing on deep learning methods for privacy-preserving NLP.
