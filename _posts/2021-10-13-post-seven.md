@@ -1,6 +1,6 @@
 ---
 title: Privacy in Open Search - A Review of Challenges and Solutions
-skills:
+categories:
 - Privacy
 - Information Retrieval
 - Search

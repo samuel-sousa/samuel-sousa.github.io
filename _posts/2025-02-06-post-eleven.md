@@ -1,6 +1,6 @@
 ---
 title: Large Language Models for Electronic Health Record De-Identification in English and German
-skills:
+categories:
 - LLMs
 - GenAI
 - Health Research

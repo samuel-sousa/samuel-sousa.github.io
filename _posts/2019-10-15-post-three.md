@@ -1,6 +1,6 @@
 ---
 title: Housing Prices Prediction with a Deep Learning and Random Forest Ensemble
-skills:
+categories:
 - Housing Prices Prediction
 - Geospatial Data Analysis
 - Machine Learning
