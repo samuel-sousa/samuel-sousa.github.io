@@ -8,11 +8,11 @@ excerpt: "I'm Samuel Sousa, a Data Scientist..."
 
 Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researcher, Data Scientist, and Machine Learning Engineer.
 
-{% include button.html text="🧰 GitHub" icon="github" link="https://github.com/samuel-sousa" color="#0366d6" %} {% include button.html text="🚀 Connect" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#f68140" %} {% include button.html text="🔎 Impact" icon="scholar" link="https://scholar.google.com/citations?user=DRik_qYAAAAJ&hl=en&oi=sra" color="#0366d6" %} {% include button.html text="⚗️ Interesting reads" icon="link" link="https://www.researchgate.net/profile/Samuel-Sousa-8" %} 
+{% include button.html text="🧰 GitHub" icon="github" link="https://github.com/samuel-sousa" color="#d99452" %} {% include button.html text="🚀 Connect" icon="linkedin" link="https://linkedin.com/in/samsousa" color="#4b7b8e" %} {% include button.html text="🔎 Impact" icon="scholar" link="https://scholar.google.com/citations?user=DRik_qYAAAAJ&hl=en&oi=sra" color="#004366" %} {% include button.html text="⚗️ Interesting reads" icon="link" link="https://www.researchgate.net/profile/Samuel-Sousa-8" color="#142432"%} 
 
 ## About me
 
-- Available as a **theme gem** and **GitHub Pages** theme
+- I have **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
@@ -27,11 +27,3 @@ Welcome to my website! I'm Samuel Sousa, an Artificial Intelligence (AI) Researc
 - Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
-
-## Examples
-
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
-
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
