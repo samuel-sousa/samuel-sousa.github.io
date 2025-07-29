@@ -1,6 +1,6 @@
 ---
-title: Elements
-feature_image: "https://picsum.photos/2560/600?image=192"
+title: Projects
+feature_image: "https://picsum.photos/2560/600?image=201"
 ---
 
 # Heading 1
