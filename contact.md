@@ -1,6 +1,6 @@
 ---
 title: Contact
 layout: skills
-excerpt: "Category index"
+excerpt: "Skill index"
 aside: true
 ---
