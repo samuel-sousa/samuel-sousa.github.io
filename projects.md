@@ -55,7 +55,6 @@ feature_image: "https://picsum.photos/2560/600?image=201"
         <tr>
           <th><b>Project</b></th>
           <th><b>Tasks</b></th>
-          <th><b>Languages</b></th>
           <th><b>Tools</b></th>
           <th><b>Repository</b></th>
         </tr>
@@ -64,8 +63,7 @@ feature_image: "https://picsum.photos/2560/600?image=201"
         <tr>
           <td>Integer programming</td>
           <td>Optimization</td>
-          <td>Python</td>
-          <td>cvxpy, numpy</td>
+          <td>Python, cvxpy, numpy</td>
           <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/Integer_Programming_CVXPY/" color="#000000" %}</td>
         </tr>
       </tbody>
