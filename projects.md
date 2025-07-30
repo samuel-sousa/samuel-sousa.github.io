@@ -2,15 +2,62 @@
 title: Projects
 feature_image: "https://picsum.photos/2560/600?image=201"
 ---
+<head>
+<title>Table with Buttons and Rules</title>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
 
+  /* Top rule */
+  table thead {
+    border-top: 2px solid black;
+  }
+
+  /* Middle rule (between header and body) */
+  table tbody {
+    border-top: 1px solid black;
+  }
+
+  /* Bottom rule */
+  table tfoot {
+    border-top: 2px solid black; /* Can also be applied to tbody if no tfoot */
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    font-weight: bold;
+  }
+
+  .action-button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  .action-button:hover {
+    background-color: #45a049;
+  }
+</style>
+</head>
+<body>
  <table>
       <thead>
         <tr>
-          <th>**Project**</th>
-          <th>**Tasks**</th>
-          <th>**Languages**</th>
-          <th>**Tools**</th>
-          <th>**Repository**</th>
+          <th><b>Project</b></th>
+          <th><b>Tasks</b></th>
+          <th><b>Languages</b></th>
+          <th><b>Tools</b></th>
+          <th><b>Repository</b></th>
         </tr>
       </thead>
       <tbody>
@@ -19,7 +66,8 @@ feature_image: "https://picsum.photos/2560/600?image=201"
           <td>Optimization</td>
           <td>Python</td>
           <td>cvxpy, numpy</td>
-          <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa" color="#000000" %}</td>
+          <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/Integer_Programming_CVXPY/" color="#000000" %}</td>
         </tr>
       </tbody>
   </table>
+</body>
