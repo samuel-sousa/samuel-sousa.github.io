@@ -69,5 +69,10 @@ feature_image: "https://picsum.photos/2560/600?image=201"
           <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/Integer_Programming_CVXPY/" color="#000000" %}</td>
         </tr>
       </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">End of projects</td>
+      </tr>
+    </tfoot>
   </table>
 </body>
