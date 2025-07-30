@@ -60,6 +60,12 @@ feature_image: "https://picsum.photos/2560/600?image=201"
         </tr>
       </thead>
       <tbody>
+       <tr>
+          <td>Testing Doc2Vec embeddings</td>
+          <td>NLP</td>
+          <td>Python, gensim,nltk, numpy, pandas, sklearn, matplotlib, time</td>
+          <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/Doc2Vecs/" color="#000000" %}</td>
+        </tr>
         <tr>
           <td>Integer programming</td>
           <td>Optimization</td>
