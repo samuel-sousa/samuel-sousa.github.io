@@ -63,7 +63,7 @@ feature_image: "https://picsum.photos/2560/600?image=201"
       <tr>
           <td>Resume summarization using GenAI</td>
           <td>GenAI, NLP, Summarization </td>
-          <td>Python, Jupyter, os, requests, dotenv, pypdf, openai, docx</td>
+          <td>Python, Jupyter Notebook, os, requests, dotenv, pypdf, openai, docx</td>
           <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/LLM-applications/blob/main/resume_summarization.ipynb/" color="#000000" %}</td>
       </tr>
       <tr>
