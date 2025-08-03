@@ -93,7 +93,7 @@ feature_image: "https://picsum.photos/2560/600?image=201"
       </tbody>
     <tfoot>
       <tr>
-        <td colspan="4">End of projects</td>
+        <td colspan="4">End of projects.</td>
       </tr>
     </tfoot>
   </table>
