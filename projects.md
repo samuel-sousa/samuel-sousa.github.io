@@ -61,10 +61,16 @@ feature_image: "https://picsum.photos/2560/600?image=201"
       </thead>
       <tbody>
       <tr>
+          <td>Resume summarization using DeepSeek-R1</td>
+          <td>GenAI, LLMs, NLP, Summarization </td>
+          <td>Python, Jupyter Notebook, os, ollama, pypdf, docx</td>
+          <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/LLM-applications/blob/main/resume_summarization_deepseek.ipynb/" color="#000000" %}</td>
+      </tr>
+      <tr>
           <td>Resume summarization using GPT-4o-mini</td>
           <td>GenAI, LLMs, NLP, Summarization </td>
           <td>Python, Jupyter Notebook, os, requests, dotenv, pypdf, openai, docx</td>
-          <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/LLM-applications/blob/main/resume_summarization.ipynb/" color="#000000" %}</td>
+          <td>{% include button.html text="GitHub" icon="github" link="https://github.com/samuel-sousa/LLM-applications/blob/main/resume_summarization_gpt-4o-mini.ipynb/" color="#000000" %}</td>
       </tr>
       <tr>
           <td>Semi-Supervised WSD</td>
