@@ -93,7 +93,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Samuel Sousa" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "I'm present in the social media platforms below, and I'm always happy to hear from AI enthusiasts! You can also check my recent career updates on LinkedIn. Check it out!" # Site description and default description, also used in jekyll-seo-tag
+description: "I'm always happy to hear from fellow AI enthusiasts and collaborators. Find me on LinkedIn, GitHub, Google Scholar, and ResearchGate below, or email me at samuel.sousa.ai@outlook.com." # Site description and default description, also used in jekyll-seo-tag
 url: "https://samuel-sousa.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/samuel-sousa"
@@ -151,4 +151,4 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap
+    - https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap

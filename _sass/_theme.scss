@@ -41,6 +41,9 @@ body {
   align-items: flex-end;
   justify-content: flex-end;
   overflow: hidden;
+  a {
+    font-weight: map-get($bodytype, bold);
+  }
 }
 
 .feature {
